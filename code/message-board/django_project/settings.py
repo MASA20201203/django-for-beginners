@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-5ftp*(zql)=_f-ch2(-8&@qf7$fx0lja#2wkapitd*b=%n&ruh
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
